@@ -5,5 +5,5 @@ const fenceforanyopt = (sides ,nummofwire,rate) => {
     });
     return sum *nummofwire*rate;
 }
-console.log(`sum of fence ${fenceforanyopt([10,20,40,15,54,28]),51,30]})`;
+console.log(fenceforanyopt([10,20,40,15,54,28]),51,30);
 
