@@ -10,7 +10,3 @@
 
 
 
-const arr = ["A","M","R"];
-
-
-console.log(arr.join(""))
